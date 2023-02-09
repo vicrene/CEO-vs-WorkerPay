@@ -1,0 +1,499 @@
+ticker,company_name,ceo_name,salary,industry
+ATVI,"Activision Blizzard, Inc.",Robert Kotick,"$826,549",Communication%20Services
+CHTR,"Charter Communications, Inc.",Thomas Rutledge,"$41,860,263",Communication%20Services
+CMCSA,Comcast Corporation,Brian Roberts,"$33,978,581",Communication%20Services
+DIS,The Walt Disney Company,Robert Chapek,"$32,464,293",Communication%20Services
+DISCA,"Warner Bros. Discovery, Inc.",David Zaslav,"$246,573,481",Communication%20Services
+DISH,DISH Network Corporation,W. Carlson,"$2,895,882",Communication%20Services
+EA,Electronic Arts Inc.,Andrew Wilson,"$19,858,539",Communication%20Services
+FOXA,Fox Corporation,Lachlan Murdoch,"$21,748,681",Communication%20Services
+GOOGL,Alphabet Inc.,Sundar Pichai,"$6,322,599",Communication%20Services
+IPG,"The Interpublic Group of Companies, Inc.",Philippe Krakowsky,"$17,371,647",Communication%20Services
+LUMN,"Lumen Technologies, Inc.",Jeffrey Storey,"$22,654,781",Communication%20Services
+LYV,"Live Nation Entertainment, Inc.",Michael Rapino,"$13,842,464",Communication%20Services
+META,"Meta Platforms, Inc.",Mark Zuckerberg,"$26,823,061",Communication%20Services
+MTCH,"Match Group, Inc.",Sharmistha Dubey,"$25,397,675",Communication%20Services
+NFLX,"Netflix, Inc.",Reed Hastings,"$40,823,725",Communication%20Services
+NWSA,News Corporation,Robert Thomson,"$19,662,203",Communication%20Services
+OMC,"Omnicom Group, Inc.",John Wren,"$19,981,715",Communication%20Services
+PARA,Paramount Global,Robert Bakish,"$20,035,212",Communication%20Services
+T,AT&T Inc.,John Stankey,"$24,820,879",Communication%20Services
+TMUS,"T-Mobile US, Inc.",G. Sievert,"$22,610,659",Communication%20Services
+TTWO,"Take-Two Interactive Software, Inc.",Strauss Zelnick,"$142,996",Communication%20Services
+VZ,Verizon Communications Inc.,Hans Vestberg,"$20,342,871",Communication%20Services
+AAP,"Advance Auto Parts, Inc.",Thomas Greco,"$10,052,271",Consumer%20Discretionary
+AMZN,"Amazon.com, Inc.",Andrew Jassy,"$212,701,169",Consumer%20Discretionary
+APTV,Aptiv Plc,Kevin Clark,"$14,744,780",Consumer%20Discretionary
+AZO,"AutoZone, Inc.",William Rhodes III,"$14,330,010",Consumer%20Discretionary
+BBWI,"Bath & Body Works, Inc.",Andrew Meslow,"$17,668,627",Consumer%20Discretionary
+BBY,"Best Buy Co., Inc.",Corie Barry,"$15,631,157",Consumer%20Discretionary
+BKNG,Booking Holdings Inc.,Glenn Fogel,"$53,982,195",Consumer%20Discretionary
+BWA,BorgWarner Inc.,Frederic Lissalde,"$17,592,090",Consumer%20Discretionary
+CCL,Carnival Corporation,Arnold Donald,"$15,063,788",Consumer%20Discretionary
+CMG,"Chipotle Mexican Grill, Inc.",Brian Niccol,"$17,880,580",Consumer%20Discretionary
+CZR,"Caesars Entertainment, Inc.",Thomas Reeg,"$22,576,517",Consumer%20Discretionary
+DG,Dollar General Corporation,Todd Vasos,"$16,618,873",Consumer%20Discretionary
+DHI,"D.R. Horton, Inc.",David Auld,"$29,996,862",Consumer%20Discretionary
+DLTR,"Dollar Tree, Inc.",Michael Witynski,"$10,249,698",Consumer%20Discretionary
+DPZ,"Domino's Pizza, Inc.",Richard Allison,"$7,138,003",Consumer%20Discretionary
+DRI,"Darden Restaurants, Inc.",Eugene Lee Jr.,"$11,891,842",Consumer%20Discretionary
+EBAY,eBay Inc.,Jamie Iannone,"$21,685,102",Consumer%20Discretionary
+ETSY,"Etsy, Inc.",Josh Silverman,"$40,584,292",Consumer%20Discretionary
+EXPE,"Expedia Group, Inc.",Peter Kern,"$296,247,749",Consumer%20Discretionary
+F,Ford Motor Company,James Farley Jr.,"$22,813,174",Consumer%20Discretionary
+GM,General Motors Company,Mary Barra,"$29,136,780",Consumer%20Discretionary
+GPC,Genuine Parts Company,Paul Donahue,"$11,810,704",Consumer%20Discretionary
+GRMN,Garmin Ltd.,Clifton Pemble,"$4,238,341",Consumer%20Discretionary
+HAS,"Hasbro, Inc.",Richard Stoddart,"$3,130,233",Consumer%20Discretionary
+HD,"The Home Depot, Inc.",Craig Menear,"$13,059,751",Consumer%20Discretionary
+HLT,"Hilton Worldwide Holdings, Inc.",Christopher Nassetta,"$23,285,248",Consumer%20Discretionary
+KMX,"CarMax, Inc.",William Nash,"$13,689,123",Consumer%20Discretionary
+LEN,Lennar Corporation,Richard Beckwitt and Jonathan Jaffe,"$34,045,217",Consumer%20Discretionary
+LKQ,LKQ Corporation,Dominick Zarcone,"$9,445,636",Consumer%20Discretionary
+LOW,"Lowes Companies, Inc.",Marvin Ellison,"$17,871,715",Consumer%20Discretionary
+LVS,Las Vegas Sands Corp.,Robert G. Goldstein,"$31,204,900",Consumer%20Discretionary
+MAR,"Marriott International, Inc.",Anthony Capuano,"$18,391,882",Consumer%20Discretionary
+MCD,McDonald's Corporation,Christopher Kempczinski,"$20,028,132",Consumer%20Discretionary
+MGM,MGM Resorts International,William Hornbuckle,"$13,274,524",Consumer%20Discretionary
+MHK,"Mohawk Industries, Inc.",Jeffrey Lorberbaum,"$5,190,696",Consumer%20Discretionary
+NCLH,Norwegian Cruise Line Holdings Ltd.,Frank Rio,"$19,668,768",Consumer%20Discretionary
+NKE,"NIKE, Inc.",John Donahoe II,"$28,838,060",Consumer%20Discretionary
+NVR,"NVR, Inc.",Paul Saville,"$4,162,400",Consumer%20Discretionary
+NWL,"Newell Brands, Inc.",Ravichandra Saligram,"$11,438,798",Consumer%20Discretionary
+ORLY,"O'Reilly Automotive, Inc.",Gregory Johnson,"$12,764,270",Consumer%20Discretionary
+PHM,"PulteGroup, Inc.",Ryan Marshall,"$16,149,555",Consumer%20Discretionary
+POOL,Pool Corporation,Peter Arvan,"$5,575,384",Consumer%20Discretionary
+RCL,Royal Caribbean Group,Richard Fain,"$15,812,027",Consumer%20Discretionary
+RL,Ralph Lauren Corporation,Patrice Louvet,"$18,553,058",Consumer%20Discretionary
+ROST,"Ross Stores, Inc.",Barbara Rentler,"$15,989,635",Consumer%20Discretionary
+SBUX,Starbucks Corporation,Kevin Johnson,"$20,425,162",Consumer%20Discretionary
+TGT,Target Corporation,Brian Cornell,"$19,758,766",Consumer%20Discretionary
+TJX,"The TJX Companies, Inc.",Ernie Herrman,"$31,802,000",Consumer%20Discretionary
+TPR,"Tapestry, Inc.",Joanne Crevoiserat,"$13,739,426",Consumer%20Discretionary
+TSCO,Tractor Supply Company,Harry Lawton III,"$11,117,251",Consumer%20Discretionary
+TSLA,"Tesla, Inc.",Elon Musk,$0,Consumer%20Discretionary
+ULTA,"Ulta Beauty, Inc.",David Kimbell,"$8,539,767",Consumer%20Discretionary
+VFC,VF Corp.,Steven Rendle,"$15,423,154",Consumer%20Discretionary
+WHR,Whirlpool Corporation,Marc Bitzer,"$18,751,901",Consumer%20Discretionary
+WYNN,"Wynn Resorts, Limited",Matthew Maddox,"$12,928,747",Consumer%20Discretionary
+YUM,"Yum! Brands, Inc.",David Gibbs,"$27,578,659",Consumer%20Discretionary
+ADM,Archer-Daniels-Midland Company,Juan Luciano,"$23,508,841",Consumer%20Staples
+BF.B,Brown-Forman Corporation,Lawson Whiting,"$8,364,936",Consumer%20Staples
+CAG,"Conagra Brands, Inc.",Sean Connolly,"$11,947,054",Consumer%20Staples
+CHD,"Church & Dwight Co., Inc.",Matthew Farrell,"$8,889,526",Consumer%20Staples
+CL,Colgate-Palmolive Company,Noel Wallace,"$15,458,151",Consumer%20Staples
+CLX,The Clorox Company,Linda Rendle,"$8,534,808",Consumer%20Staples
+COST,Costco Wholesale Corporation,W. Jelinek,"$9,905,070",Consumer%20Staples
+CPB,Campbell Soup Company,Mark Clouse,"$10,277,065",Consumer%20Staples
+EL,"The Estee Lauder Companies, Inc.",Fabrizio Freda,"$25,480,056",Consumer%20Staples
+GIS,"General Mills, Inc.",Jeffrey Harmening,"$12,266,195",Consumer%20Staples
+HRL,Hormel Foods Corporation,James Snee,"$9,478,102",Consumer%20Staples
+HSY,The Hershey Company,Michele Buck,"$16,144,570",Consumer%20Staples
+K,Kellogg Company,Steven Cahillane,"$10,678,337",Consumer%20Staples
+KDP,Keurig Dr Pepper Inc.,Robert Gamgort,"$7,772,521",Consumer%20Staples
+KHC,The Kraft Heinz Company,Miguel Patricio,"$8,605,599",Consumer%20Staples
+KMB,Kimberly-Clark Corporation,Michael Hsu,"$12,009,162",Consumer%20Staples
+KO,The Coca-Cola Company,James Quincey,"$24,883,878",Consumer%20Staples
+KR,The Kroger Co.,W. McMullen,"$18,168,730",Consumer%20Staples
+LW,"Lamb Weston Holdings, Inc.",Thomas Werner,"$7,858,113",Consumer%20Staples
+MDLZ,"Mondelez International, Inc.",Dirk de Put,"$16,128,320",Consumer%20Staples
+MKC,"McCormick & Company, Incorporated",Lawrence Kurzius,"$12,718,656",Consumer%20Staples
+MNST,Monster Beverage Corporation,Rodney Sacks,"$16,707,577",Consumer%20Staples
+MO,"Altria Group, Inc.",William Gifford Jr.,"$12,626,972",Consumer%20Staples
+PEP,"PepsiCo, Inc.",Ramon Laguarta,"$25,506,607",Consumer%20Staples
+PG,The Procter & Gamble Company,Jon Moeller,"$17,716,015",Consumer%20Staples
+PM,Philip Morris International Inc.,Jacek Olczak,"$10,557,568",Consumer%20Staples
+SJM,The J. M. Smucker Company,Mark Smucker,"$8,511,639",Consumer%20Staples
+STZ,"Constellation Brands, Inc.",William Newlands,"$12,040,281",Consumer%20Staples
+SYY,Sysco Corporation,Kevin Hourican,"$13,656,506",Consumer%20Staples
+TAP,Molson Coors Beverage Company,Gavin Hattersley,"$8,234,680",Consumer%20Staples
+TSN,"Tyson Foods, Inc.",Donnie King,"$12,014,497",Consumer%20Staples
+WBA,"Walgreens Boots Alliance, Inc.",Rosalind Brewer,"$17,287,489",Consumer%20Staples
+WMT,Walmart Inc.,C. McMillon,"$25,670,673",Consumer%20Staples
+APA,APA Corp.,John Christmann,"$15,040,707",Energy
+BKR,Baker Hughes Company,Lorenzo Simonelli,"$15,646,452",Energy
+COP,ConocoPhillips,Ryan Lance,"$23,886,640",Energy
+CTRA,Coterra Energy Inc.,Thomas Jorden,"$11,061,939",Energy
+CVX,Chevron Corporation,Michael Wirth,"$22,610,285",Energy
+DVN,Devon Energy Corporation,Richard Muncrief,"$11,914,547",Energy
+EOG,"EOG Resources, Inc.",Ezra Yacob,"$9,752,887",Energy
+EQT,EQT Corporation,Toby Rice,"$16,919,763",Energy
+FANG,"Diamondback Energy, Inc.",Travis Stice,"$13,839,995",Energy
+HAL,Halliburton Company,Jeffrey Miller,"$23,591,982",Energy
+HES,Hess Corporation,John Hess,"$12,408,198",Energy
+KMI,"Kinder Morgan, Inc.",Steven Kean,"$18,000,259",Energy
+MPC,Marathon Petroleum Corporation,Michael Hennigan,"$21,185,206",Energy
+MRO,Marathon Oil Corporation,Lee Tillman,"$12,997,292",Energy
+OKE,"ONEOK, Inc.",Pierce Norton II,"$7,246,578",Energy
+OXY,Occidental Petroleum Corporation,Vicki Hollub,"$11,068,539",Energy
+PSX,Phillips 66,Greg Garland,"$20,953,206",Energy
+PXD,Pioneer Natural Resources Company,Scott Sheffield,"$16,002,825",Energy
+SLB,Schlumberger NV,Olivier Peuch,"$16,795,502",Energy
+TRGP,Targa Resources Corp.,Matthew Meloy,"$14,691,940",Energy
+VLO,Valero Energy Corporation,Joseph Gorder,"$22,684,706",Energy
+WMB,"The Williams Companies, Inc.",Alan Armstrong,"$13,759,533",Energy
+XOM,Exxon Mobil Corporation,Darren Woods,"$23,572,488",Energy
+ACGL,Arch Capital Group Ltd.,Marc Grandisson,"$9,336,013",Financials
+AFL,Aflac Incorporated,Daniel Amos,"$15,728,233",Financials
+AIG,"American International Group, Inc.",Peter Zaffino,"$21,905,220",Financials
+AIZ,"Assurant, Inc.",Alan Colberg,"$11,504,780",Financials
+AJG,Arthur J. Gallagher & Co.,J. Gallagher,"$13,882,255",Financials
+ALL,The Allstate Corporation,Thomas Wilson,"$19,066,920",Financials
+AMP,"Ameriprise Financial, Inc.",James Cracchiolo,"$21,229,464",Financials
+AON,Aon Plc,Gregory Case,"$19,868,384",Financials
+AXP,American Express Company,Stephen Squeri,"$25,513,922",Financials
+BAC,Bank of America Corporation,Brian Moynihan,"$23,729,169",Financials
+BEN,"Franklin Resources, Inc.",Jennifer Johnson,"$15,734,999",Financials
+BK,The Bank of New York Mellon Corporation,Thomas Gibbons,"$14,128,042",Financials
+BLK,"BlackRock, Inc.",Laurence Fink,"$32,587,335",Financials
+BRK.B,Berkshire Hathaway Inc.,Warren Buffett,"$373,204",Financials
+BRO,"Brown & Brown, Inc.",J. Brown,"$9,201,035",Financials
+C,Citigroup Inc.,Jane Fraser,"$20,541,324",Financials
+CB,Chubb Limited,Evan Greenberg,"$23,181,184",Financials
+CBOE,"Cboe Global Markets, Inc.",Edward Tilly,"$10,646,558",Financials
+CFG,"Citizens Financial Group, Inc.",Bruce Saun,"$12,430,076",Financials
+CINF,Cincinnati Financial Corporation,Steven Johnston,"$6,490,767",Financials
+CMA,Comerica Incorporated,Curtis Farmer,"$7,696,094",Financials
+CME,CME Group Inc.,Terrence Duffy,"$22,924,737",Financials
+COF,Capital One Financial Corporation,Richard Fairbank,"$20,457,553",Financials
+DFS,Discover Financial Services,Roger Hochschild,"$12,087,218",Financials
+FDS,FactSet Research Systems Inc.,F. Snow,"$6,604,998",Financials
+FITB,Fifth Third Bancorp,Greg Carmichael,"$10,531,649",Financials
+FRC,First Republic Bank,Hafize Erkan,"$23,458,948",Financials
+GL,Globe Life Inc.,Gary Coleman,"$8,353,754",Financials
+GS,"The Goldman Sachs Group, Inc.",David Solomon,"$39,545,072",Financials
+HBAN,Huntington Bancshares Incorporated,Stephen Steinour,"$9,619,178",Financials
+HIG,"The Hartford Financial Services Group, Inc.",Christopher Swift,"$15,824,348",Financials
+ICE,"Intercontinental Exchange, Inc.",Jeffrey Sprecher,"$14,788,386",Financials
+IVZ,Invesco Ltd.,Martin Flanagan,"$12,897,752",Financials
+JPM,JPMorgan Chase & Co.,James Dimon,"$84,428,145",Financials
+KEY,KeyCorp,Christopher Gorman,"$8,653,484",Financials
+L,Loews Corporation,James Tisch,"$6,119,523",Financials
+LNC,Lincoln National Corporation,Dennis Glass,"$16,760,924",Financials
+MCO,Moodys Corporation,Robert Fauber,"$9,750,157",Financials
+MET,"MetLife, Inc.",Michel Khalaf,"$16,621,373",Financials
+MKTX,MarketAxess Holdings Inc.,Richard McVey,"$5,742,184",Financials
+MMC,"Marsh & McLennan Companies, Inc.",Daniel Glaser,"$21,519,703",Financials
+MS,Morgan Stanley,James Gorman,"$34,941,635",Financials
+MSCI,MSCI Inc.,Henry Fernandez,"$10,338,312",Financials
+MTB,M&T Bank Corporation,Rene Jones,"$6,868,174",Financials
+NDAQ,"Nasdaq, Inc.",Adena Friedman,"$19,965,893",Financials
+NTRS,Northern Trust Corporation,Michael O'Grady,"$10,449,233",Financials
+PFG,"Principal Financial Group, Inc.",Daniel Houston,"$17,566,163",Financials
+PGR,The Progressive Corporation,Susan Griffith,"$14,462,961",Financials
+PNC,"The PNC Financial Services Group, Inc.",William Demchak,"$17,506,270",Financials
+PRU,"Prudential Financial, Inc.",Charles Lowrey,"$19,799,737",Financials
+RE,"Everest Re Group, Ltd.",Juan Andrade,"$8,866,126",Financials
+RF,Regions Financial Corporation,John Turner Jr.,"$13,444,577",Financials
+RJF,"Raymond James Financial, Inc.",Paul Reilly,"$13,901,046",Financials
+SBNY,Signature Bank,Joseph DePaolo,"$8,975,851",Financials
+SCHW,The Charles Schwab Corporation,Walter Bettinger II,"$21,938,404",Financials
+SIVB,SVB Financial Group,Greg Becker,"$9,922,132",Financials
+SPGI,"S&P Global, Inc.",Douglas Peterson,"$16,143,770",Financials
+STT,State Street Corporation,Ronald O'Hanley,"$14,113,660",Financials
+SYF,Synchrony Financial,Brian Doubles,"$8,880,347",Financials
+TFC,Truist Financial Corporation,William Rogers Jr.,"$10,395,426",Financials
+TROW,"T. Rowe Price Group, Inc.",William Stromberg,"$17,127,330",Financials
+TRV,"The Travelers Companies, Inc.",Alan Schnitzer,"$19,853,697",Financials
+USB,U.S. Bancorp,Andrew Cecere,"$19,166,276",Financials
+WFC,Wells Fargo & Company,Charles Scharf,"$21,350,906",Financials
+WRB,W. R. Berkley Corporation,W. Berkley Jr.,"$14,147,305",Financials
+WTW,Willis Towers Watson PLC,John Haley,"$20,337,292",Financials
+ZION,"Zions Bancorporation, NA",Harris Simmons,"$4,656,113",Financials
+A,"Agilent Technologies, Inc.",Michael McMullen,"$15,967,631",Health%20Care
+ABBV,AbbVie Inc.,Richard Gonzalez,"$23,912,154",Health%20Care
+ABC,AmerisourceBergen Corporation,Steven Collis,"$14,873,815",Health%20Care
+ABT,Abbott Laboratories,Robert Ford,"$24,914,886",Health%20Care
+ALGN,"Align Technology, Inc.",Joseph Hogan,"$21,591,400",Health%20Care
+AMGN,Amgen Inc.,Robert Bradway,"$21,721,154",Health%20Care
+BAX,Baxter International Inc.,Jose Almeida,"$15,634,734",Health%20Care
+BDX,"Becton, Dickinson and Company",Thomas Polen,"$16,711,230",Health%20Care
+BIIB,Biogen Inc.,Michel Vounatsos,"$17,689,665",Health%20Care
+BIO,"Bio-Rad Laboratories, Inc.",Norman Schwartz,"$8,695,925",Health%20Care
+BMY,Bristol-Myers Squibb Company,Giovanni Caforio,"$19,784,806",Health%20Care
+BSX,Boston Scientific Corporation,Michael Mahoney,"$16,064,039",Health%20Care
+CAH,"Cardinal Health, Inc.",Michael Kaufmann,"$13,463,557",Health%20Care
+CI,Cigna Corporation,David Cordani,"$19,872,266",Health%20Care
+CNC,Centene Corporation,Michael Neidorff,"$20,637,990",Health%20Care
+COO,"The Cooper Companies, Inc.",Albert White III,"$10,994,906",Health%20Care
+CRL,"Charles River Laboratories International, Inc.",James Foster,"$13,705,581",Health%20Care
+CTLT,"Catalent, Inc.",John Chiminski,"$12,407,517",Health%20Care
+CVS,CVS Health Corporation,Karen Lynch,"$20,388,412",Health%20Care
+DGX,Quest Diagnostics Incorporated,Stephen Rusckowski,"$14,557,818",Health%20Care
+DHR,Danaher Corporation,Rainer Blair,"$17,152,267",Health%20Care
+DVA,DaVita Inc.,Javier Rodriguez,"$3,298,439",Health%20Care
+DXCM,"DexCom, Inc.",Kevin Sayer,"$11,985,324",Health%20Care
+EW,Edwards Lifesciences Corporation,Michael Mussallem,"$13,613,305",Health%20Care
+GILD,"Gilead Sciences, Inc.",Daniel O'Day,"$19,229,466",Health%20Care
+HCA,"HCA Healthcare, Inc.",Samuel Hazen,"$20,635,260",Health%20Care
+HOLX,"Hologic, Inc.",Stephen MacMillan,"$14,748,400",Health%20Care
+HSIC,"Henry Schein, Inc.",Stanley Bergman,"$10,786,180",Health%20Care
+HUM,Humana Inc.,Bruce Broussard,"$16,528,036",Health%20Care
+IDXX,"IDEXX Laboratories, Inc.",Jay Mazelsky,"$9,065,021",Health%20Care
+ILMN,"Illumina, Inc.",Francis deSouza,"$14,333,634",Health%20Care
+INCY,Incyte Corporation,Herve Hoppenot,"$14,444,265",Health%20Care
+IQV,"IQVIA Holdings, Inc.",Ari Bousbib,"$28,615,851",Health%20Care
+ISRG,"Intuitive Surgical, Inc.",Gary Guthart,"$8,059,409",Health%20Care
+JNJ,Johnson & Johnson,Alex Gorsky,"$26,741,959",Health%20Care
+LH,Laboratory Corporation of America Holdings,Adam Schechter,"$20,551,605",Health%20Care
+LLY,Eli Lilly and Company,David Ricks,"$21,509,985",Health%20Care
+MCK,McKesson Corporation,Brian Tyler,"$18,152,082",Health%20Care
+MDT,Medtronic Plc,Geoffrey Martha,"$16,849,633",Health%20Care
+MOH,"Molina Healthcare, Inc.",Joseph Zubretsky,"$19,961,698",Health%20Care
+MRK,"Merck & Co., Inc.",Robert Davis,"$13,722,121",Health%20Care
+MRNA,"Moderna, Inc.",Stephane Bancel,"$18,155,739",Health%20Care
+MTD,Mettler-Toledo International Inc.,Patrick Kaltenbach,"$11,811,322",Health%20Care
+OGN,Organon & Co.,Kevin Ali,"$16,787,623",Health%20Care
+PFE,Pfizer Inc.,Albert Bourla,"$24,353,219",Health%20Care
+PKI,"PerkinElmer, Inc.",Prahlad Singh,"$9,661,006",Health%20Care
+REGN,"Regeneron Pharmaceuticals, Inc.",Leonard Schleifer,"$6,470,514",Health%20Care
+RMD,ResMed Inc.,Michael Farrell,"$11,659,210",Health%20Care
+STE,STERIS Plc (Ireland),Daniel Carestio,"$5,903,168",Health%20Care
+SYK,Stryker Corporation,Kevin Lobo,"$16,359,898",Health%20Care
+TECH,Bio-Techne Corporation,Charles Kummeth,"$15,370,548",Health%20Care
+TFX,Teleflex Incorporated,Liam Kelly,"$8,673,634",Health%20Care
+TMO,Thermo Fisher Scientific Inc.,Marc Casper,"$21,234,358",Health%20Care
+UHS,"Universal Health Services, Inc.",Marc Miller,"$14,020,942",Health%20Care
+UNH,UnitedHealth Group Incorporated,Andrew Witty,"$18,433,143",Health%20Care
+VRTX,Vertex Pharmaceuticals Incorporated,Reshma Kewalramani,"$15,198,856",Health%20Care
+VTRS,Viatris Inc.,Michael Goettler,"$14,669,592",Health%20Care
+WAT,Waters Corporation,Udit Batra,"$8,653,559",Health%20Care
+WST,"West Pharmaceutical Services, Inc.",Eric Green,"$9,472,757",Health%20Care
+XRAY,DENTSPLY SIRONA Inc.,Donald Casey Jr.,"$9,251,884",Health%20Care
+ZBH,"Zimmer Biomet Holdings, Inc.",Bryan Hanson,"$14,981,058",Health%20Care
+ZTS,Zoetis Inc.,Kristin Peck,"$13,098,491",Health%20Care
+AAL,American Airlines Group Inc.,W. Parker,"$7,238,011",Industrials
+ALK,"Alaska Air Group, Inc.",Benito Minicucci,"$5,130,162",Industrials
+ALLE,Allegion Plc,David Petratis,"$7,688,243",Industrials
+AME,"AMETEK, Inc.",David Zapico,"$12,919,431",Industrials
+AOS,A. O. Smith Corporation,Kevin Wheeler,"$6,897,982",Industrials
+BA,The Boeing Company,David Calhoun,"$21,093,605",Industrials
+CARR,Carrier Global Corp.,David Gitlin,"$14,892,815",Industrials
+CAT,Caterpillar Inc.,Donald Umpleby III,"$24,298,032",Industrials
+CHRW,"C.H. Robinson Worldwide, Inc.",Robert Biesterfeld,"$10,233,276",Industrials
+CMI,Cummins Inc.,N. Linebarger,"$15,645,919",Industrials
+CPRT,"Copart, Inc.",Jeffrey Liaw,"$31,033,606",Industrials
+CSGP,"CoStar Group, Inc.",Andrew Florance,"$22,164,341",Industrials
+CSX,CSX Corporation,James Foote,"$20,006,806",Industrials
+CTAS,Cintas Corporation,Todd Schneider,"$7,777,100",Industrials
+DAL,"Delta Air Lines, Inc.",Edward Bastian,"$12,360,420",Industrials
+DE,Deere & Company,John May,"$19,912,826",Industrials
+DOV,Dover Corporation,Richard Tobin,"$14,085,860",Industrials
+EFX,Equifax Inc.,Mark Begor,"$16,065,575",Industrials
+EMR,Emerson Electric Co.,Surendralal Karsanbhai,"$15,178,106",Industrials
+ETN,Eaton Corporation plc,Craig Arnold,"$19,367,607",Industrials
+EXPD,"Expeditors International of Washington, Inc.",Jeffrey Musser,"$13,026,304",Industrials
+FAST,Fastenal Company,Daniel Florness,"$2,423,614",Industrials
+FDX,FedEx Corporation,Frederick Smith,"$10,596,150",Industrials
+FTV,Fortive Corporation,James Lico,"$16,598,719",Industrials
+GD,General Dynamics Corporation,Phebe Novakovic,"$23,553,862",Industrials
+GE,General Electric Company,H. Culp Jr.,"$22,663,449",Industrials
+GNRC,Generac Holdings Inc.,Aaron Jagdfeld,"$7,519,813",Industrials
+GWW,"W.W. Grainger, Inc.",Donald Macpherson,"$9,015,594",Industrials
+HII,"Huntington Ingalls Industries, Inc.",C. Petters,"$7,714,066",Industrials
+HON,Honeywell International Inc.,Darius Adamczyk,"$26,100,120",Industrials
+HWM,Howmet Aerospace Inc.,John Plant,"$17,189,000",Industrials
+IEX,IDEX Corporation,Eric Ashleman,"$6,719,772",Industrials
+IR,"Ingersoll Rand, Inc.",Vicente Reynal,"$10,613,486",Industrials
+ITW,Illinois Tool Works Inc.,E. Santi,"$20,787,622",Industrials
+J,"Jacobs Solutions, Inc.",Steven Demetriou,"$14,615,521",Industrials
+JBHT,"J.B. Hunt Transport Services, Inc.",John Roberts,"$8,801,881",Industrials
+JCI,Johnson Controls International Plc,George Oliver,"$15,667,017",Industrials
+LDOS,"Leidos Holdings, Inc.",Roger Krone,"$12,876,007",Industrials
+LHX,"L3Harris Technologies, Inc.",Christopher Kubasik,"$15,697,749",Industrials
+LMT,Lockheed Martin Corporation,James Taiclet Jr.,"$18,111,211",Industrials
+LUV,Southwest Airlines Co.,Gary Kelly,"$5,819,756",Industrials
+MAS,Masco Corporation,Keith Allman,"$13,410,774",Industrials
+MMM,3M Company,Michael Roman,"$18,200,584",Industrials
+NDSN,Nordson Corporation,Sundaram Nagarajan,"$10,308,750",Industrials
+NOC,Northrop Grumman Corporation,Kathy Warden,"$19,876,767",Industrials
+NSC,Norfolk Southern Corporation,James Squires,"$14,016,942",Industrials
+ODFL,"Old Dominion Freight Line, Inc.",Greg Gantt,"$10,577,833",Industrials
+OTIS,Otis Worldwide Corp.,Judith Marks,"$13,770,306",Industrials
+PCAR,PACCAR Inc,R. Feight,"$11,935,763",Industrials
+PH,Parker-Hannifin Corporation,Thomas Williams,"$18,448,169",Industrials
+PNR,Pentair plc,John Stauch,"$9,429,546",Industrials
+PWR,"Quanta Services, Inc.",Earl Austin Jr.,"$10,967,217",Industrials
+RHI,Robert Half International Inc.,M. Waddell,"$8,971,474",Industrials
+ROK,"Rockwell Automation, Inc.",Blake Moret,"$10,987,704",Industrials
+ROL,"Rollins, Inc.",Gary Rollins,"$8,393,601",Industrials
+RSG,"Republic Services, Inc.",Jon Ark,"$7,925,408",Industrials
+RTX,Raytheon Technologies Corp.,Gregory Hayes,"$23,316,063",Industrials
+SNA,Snap-on Incorporated,Nicholas Pinchuk,"$9,872,946",Industrials
+SWK,"Stanley Black & Decker, Inc.",James Loree,"$13,167,893",Industrials
+TDG,TransDigm Group Incorporated,Kevin Stein,"$21,484,504",Industrials
+TT,Trane Technologies Plc,David Regnery,"$12,888,518",Industrials
+TXT,Textron Inc.,Scott Donnelly,"$18,576,014",Industrials
+UAL,"United Airlines Holdings, Inc.",J. Kirby,"$9,845,064",Industrials
+UNP,Union Pacific Corporation,Lance Fritz,"$14,523,819",Industrials
+UPS,"United Parcel Service, Inc.",Carol Tome,"$27,620,893",Industrials
+URI,"United Rentals, Inc.",Matthew Flannery,"$12,716,100",Industrials
+VRSK,"Verisk Analytics, Inc.",Scott Stephenson,"$12,796,321",Industrials
+WAB,Westinghouse Air Brake Technologies Corporation,Rafael Santana,"$11,027,238",Industrials
+WM,"Waste Management, Inc.",James Fish,"$13,057,363",Industrials
+XYL,Xylem Inc.,Patrick Decker,"$10,441,670",Industrials
+AAPL,Apple Inc.,Timothy Cook,"$98,734,394",Information%20Technology
+ACN,Accenture Plc,Julie Sweet,"$33,701,108",Information%20Technology
+ADBE,"Adobe, Inc.",Shantanu Narayen,"$36,128,725",Information%20Technology
+ADI,"Analog Devices, Inc.",Vincent Roche,"$30,824,323",Information%20Technology
+ADP,"Automatic Data Processing, Inc.",Carlos Rodriguez,"$20,827,092",Information%20Technology
+ADSK,"Autodesk, Inc.",Andrew Anagnost,"$22,095,521",Information%20Technology
+AKAM,"Akamai Technologies, Inc.",F. Leighton,"$11,951,574",Information%20Technology
+AMAT,"Applied Materials, Inc.",Gary Dickerson,"$35,265,559",Information%20Technology
+AMD,"Advanced Micro Devices, Inc.",Lisa Su,"$29,498,107",Information%20Technology
+ANET,"Arista Networks, Inc.",Jayshree Ullal,"$15,993,632",Information%20Technology
+ANSS,"ANSYS, Inc.",Ajei Gopal,"$18,260,634",Information%20Technology
+APH,Amphenol Corporation,R. Norwitt,"$13,092,697",Information%20Technology
+AVGO,Broadcom Inc.,Hock Tan,"$60,703,627",Information%20Technology
+BR,"Broadridge Financial Solutions, Inc.",Timothy Gokey,"$10,068,228",Information%20Technology
+CDAY,"Ceridian HCM Holding, Inc.",David Ossip,"$10,626,701",Information%20Technology
+CDNS,"Cadence Design Systems, Inc.",Anirudh Devgan,"$21,735,794",Information%20Technology
+CDW,CDW Corp.,Christine Leahy,"$8,943,903",Information%20Technology
+CRM,"Salesforce, Inc.",Marc Benioff,"$28,602,112",Information%20Technology
+CSCO,"Cisco Systems, Inc.",Charles Robbins,"$29,283,936",Information%20Technology
+CTSH,Cognizant Technology Solutions Corporation,Brian Humphries,"$19,687,285",Information%20Technology
+DXC,DXC Technology Co.,Michael Salvino,"$28,716,680",Information%20Technology
+ENPH,"Enphase Energy, Inc.",Badrinarayanan Kothandaraman,"$19,019,162",Information%20Technology
+EPAM,"EPAM Systems, Inc.",Arkadiy Dobkin,"$5,921,524",Information%20Technology
+FFIV,"F5, Inc.",Francois Locoh-Donou,"$11,469,726",Information%20Technology
+FIS,"Fidelity National Information Services, Inc.",Gary Norcross,"$25,023,771",Information%20Technology
+FISV,"Fiserv, Inc.",Frank Bisignano,"$20,385,208",Information%20Technology
+FLT,"FLEETCOR Technologies, Inc.",Ronald Clarke,"$57,923,473",Information%20Technology
+FSLR,"First Solar, Inc.",Mark Widmar,"$6,542,454",Information%20Technology
+FTNT,"Fortinet, Inc.",Ken Xie,"$14,203,211",Information%20Technology
+GLW,Corning Incorporated,Wendell Weeks,"$20,766,032",Information%20Technology
+GPN,Global Payments Inc.,Jeffrey Sloan,"$23,318,393",Information%20Technology
+HPE,Hewlett Packard Enterprise Company,Antonio Neri,"$19,052,415",Information%20Technology
+HPQ,HP Inc.,Enrique Lores,"$20,733,806",Information%20Technology
+IBM,International Business Machines Corporation,Arvind Krishna,"$17,550,959",Information%20Technology
+INTC,Intel Corporation,Patrick Gelsinger,"$178,590,400",Information%20Technology
+INTU,Intuit Inc.,Sasan Goodarzi,"$27,174,857",Information%20Technology
+IT,"Gartner, Inc.",Eugene Hall,"$14,096,168",Information%20Technology
+JKHY,"Jack Henry & Associates, Inc.",David Foss,"$9,758,392",Information%20Technology
+JNPR,"Juniper Networks, Inc.",Rami Rahim,"$11,870,290",Information%20Technology
+KEYS,"Keysight Technologies, Inc.",Ronald Nersesian,"$18,566,410",Information%20Technology
+KLAC,KLA Corporation,Richard Wallace,"$20,568,625",Information%20Technology
+LRCX,Lam Research Corporation,Timothy Archer,"$16,941,156",Information%20Technology
+MA,Mastercard Incorporated,Michael Miebach,"$16,120,055",Information%20Technology
+MCHP,Microchip Technology Incorporated,Ganesh Moorthy,"$12,759,667",Information%20Technology
+MPWR,"Monolithic Power Systems, Inc.",Michael Hsing,"$20,254,831",Information%20Technology
+MSFT,Microsoft Corporation,Satya Nadella,"$54,946,310",Information%20Technology
+MSI,"Motorola Solutions, Inc.",Gregory Brown,"$19,980,639",Information%20Technology
+MU,"Micron Technology, Inc.",Sanjay Mehrotra,"$28,840,809",Information%20Technology
+NOW,"ServiceNow, Inc.",William McDermott,"$165,802,037",Information%20Technology
+NTAP,"NetApp, Inc.",George Kurian,"$18,883,551",Information%20Technology
+NVDA,NVIDIA Corporation,Jen-Hsun Huang,"$23,737,661",Information%20Technology
+NXPI,NXP Semiconductors NV,Kurt Sievers,"$20,911,892",Information%20Technology
+ON,ON Semiconductor Corporation,Hassane El-Khoury,"$12,825,562",Information%20Technology
+ORCL,Oracle Corporation,Safra Catz,"$138,192,032",Information%20Technology
+PAYC,"Paycom Software, Inc.",Chad Richison,"$2,958,410",Information%20Technology
+PAYX,"Paychex, Inc.",Martin Mucci,"$11,025,026",Information%20Technology
+PTC,PTC Inc.,James Heppelmann,"$12,887,116",Information%20Technology
+PYPL,"PayPal Holdings, Inc.",Daniel Schulman,"$32,070,353",Information%20Technology
+QCOM,QUALCOMM Incorporated,Cristiano Amon,"$20,638,924",Information%20Technology
+QRVO,"Qorvo, Inc.",Robert Bruggeworth,"$10,072,684",Information%20Technology
+ROP,"Roper Technologies, Inc.",L. Hunn,"$21,532,055",Information%20Technology
+SEDG,"SolarEdge Technologies, Inc.",Zivi Lando,"$7,361,336",Information%20Technology
+SNPS,"Synopsys, Inc.",Chi-Foon Chan,"$9,976,485",Information%20Technology
+STX,Seagate Technology Holdings plc,William Mosley,"$11,641,189",Information%20Technology
+SWKS,"Skyworks Solutions, Inc.",Liam Griffin,"$16,150,421",Information%20Technology
+TDY,Teledyne Technologies Incorporated,Robert Mehrabian,"$6,567,058",Information%20Technology
+TEL,TE Connectivity Ltd.,Terrence Curtin,"$14,715,856",Information%20Technology
+TER,"Teradyne, Inc.",Mark Jagiela,"$10,954,713",Information%20Technology
+TRMB,Trimble Inc.,Robert Painter,"$13,956,821",Information%20Technology
+TXN,Texas Instruments Incorporated,Richard Templeton,"$19,195,411",Information%20Technology
+TYL,"Tyler Technologies, Inc.",H. Moore Jr,"$5,590,005",Information%20Technology
+V,Visa Inc.,Alfred Kelly Jr.,"$28,103,602",Information%20Technology
+VRSN,"VeriSign, Inc.",D. Bidzos,"$10,118,313",Information%20Technology
+WDC,Western Digital Corporation,David Goeckeler,"$32,137,338",Information%20Technology
+ZBRA,Zebra Technologies Corporation,Anders Gustafsson,"$13,589,616",Information%20Technology
+ALB,Albemarle Corporation,Jerry Masters Jr.,"$9,040,753",Materials
+AMCR,Amcor Plc,Ronald Delia,"$9,872,758",Materials
+APD,"Air Products and Chemicals, Inc.",Seifollah Ghasemi,"$18,483,105",Materials
+AVY,Avery Dennison Corporation,Mitchell Butier,"$12,433,721",Materials
+BLL,Ball Corporation,John Hayes,"$13,924,380",Materials
+CE,Celanese Corporation,Lori Ryerkerk,"$12,570,992",Materials
+CF,"CF Industries Holdings, Inc.",W. Will,"$11,685,670",Materials
+CTVA,"Corteva, Inc.",Charles Magro,"$792,786",Materials
+DD,"DuPont de Nemours, Inc.",Edward Breen,"$15,106,986",Materials
+DOW,"Dow, Inc.",James Fitterling,"$24,858,892",Materials
+ECL,Ecolab Inc.,Christophe Beck,"$8,365,889",Materials
+EMN,Eastman Chemical Company,Mark Costa,"$17,798,861",Materials
+FCX,"Freeport-McMoRan, Inc.",Richard Adkerson,"$19,111,894",Materials
+FMC,FMC Corporation,Mark Douglas,"$8,489,671",Materials
+IFF,International Flavors & Fragrances Inc.,Andreas Fibig,"$9,767,380",Materials
+IP,International Paper Company,Mark Sutton,"$15,228,707",Materials
+LIN,Linde Plc,Stephen Angel,"$31,426,032",Materials
+LYB,LyondellBasell Industries NV,Bhavesh V. Patel,"$19,011,033",Materials
+MLM,"Martin Marietta Materials, Inc.",C. Nye,"$14,939,587",Materials
+MOS,The Mosaic Company,James O'Rourke,"$12,297,011",Materials
+NEM,Newmont Corporation,Thomas Palmer,"$12,667,105",Materials
+NUE,Nucor Corporation,Leon Topalian,"$11,618,019",Materials
+PKG,Packaging Corporation of America,Mark Kowlzan,"$12,157,313",Materials
+PPG,"PPG Industries, Inc.",Michael McGarry,"$13,418,214",Materials
+SEE,Sealed Air Corporation,Edward Doheny II,"$9,674,692",Materials
+SHW,The Sherwin-Williams Company,John Morikis,"$15,843,760",Materials
+STLD,"Steel Dynamics, Inc.",Mark Millett,"$10,999,918",Materials
+VMC,Vulcan Materials Company,J. Hill,"$10,774,795",Materials
+WRK,WestRock Company,David Sewell,"$11,576,270",Materials
+AMT,American Tower Corporation,Thomas Bartlett,"$16,114,574",Real%20Estate
+ARE,"Alexandria Real Estate Equities, Inc.",Stephen Richardson,"$8,320,228",Real%20Estate
+AVB,"AvalonBay Communities, Inc.",Timothy Naughton,"$14,371,460",Real%20Estate
+BXP,"Boston Properties, Inc.",Owen Thomas,"$12,894,537",Real%20Estate
+CBRE,"CBRE Group, Inc.",Robert Sulentic,"$13,908,085",Real%20Estate
+CCI,Crown Castle Inc.,Jay Brown,"$14,553,510",Real%20Estate
+CPT,Camden Property Trust,Richard Campo,"$4,285,423",Real%20Estate
+DLR,"Digital Realty Trust, Inc.",A. Stein,"$17,139,601",Real%20Estate
+EQIX,"Equinix, Inc.",Charles Meyers,"$23,248,193",Real%20Estate
+EQR,Equity Residential,Mark Parrell,"$8,490,527",Real%20Estate
+ESS,"Essex Property Trust, Inc.",Michael Schall,"$7,183,068",Real%20Estate
+EXR,Extra Space Storage Inc.,Joseph Margolis,"$7,315,982",Real%20Estate
+FRT,Federal Realty Investment Trust,Donald Wood,"$7,520,917",Real%20Estate
+HST,"Host Hotels & Resorts, Inc.",James Risoleo,"$11,520,730",Real%20Estate
+INVH,"Invitation Homes, Inc.",Dallas Tanner,"$9,710,445",Real%20Estate
+IRM,Iron Mountain Incorporated,William Meaney,"$17,046,118",Real%20Estate
+KIM,Kimco Realty Corporation,Conor Flynn,"$10,488,138",Real%20Estate
+MAA,"Mid-America Apartment Communities, Inc.",H. Bolton,"$7,667,655",Real%20Estate
+O,Realty Income Corporation,Sumit Roy,"$12,861,011",Real%20Estate
+PEAK,"Healthpeak Properties, Inc.",Thomas Herzog,"$11,713,883",Real%20Estate
+PLD,"Prologis, Inc.",Hamid Moghadam,"$24,901,490",Real%20Estate
+PSA,Public Storage,Joseph Russell,"$10,358,153",Real%20Estate
+REG,Regency Centers Corporation,Lisa Palmer,"$7,026,315",Real%20Estate
+SBAC,SBA Communications Corp.,Jeffrey Stoops,"$9,995,179",Real%20Estate
+SPG,"Simon Property Group, Inc.",David Simon,"$10,475,192",Real%20Estate
+UDR,"UDR, Inc.",Thomas Toomey,"$14,228,333",Real%20Estate
+VICI,"VICI Properties, Inc.",Edward Pitoniak,"$7,662,894",Real%20Estate
+VNO,Vornado Realty Trust,Steven Roth,"$9,763,351",Real%20Estate
+VTR,"Ventas, Inc.",Debra Cafaro,"$14,263,728",Real%20Estate
+WELL,Welltower Inc.,Shankh Mitra,"$12,753,710",Real%20Estate
+WY,Weyerhaeuser Company,Devin Stockfish,"$12,715,531",Real%20Estate
+AEE,Ameren Corporation,Warner Baxter,"$9,807,836",Utilities
+AEP,"American Electric Power Company, Inc.",Nicholas Akins,"$15,051,215",Utilities
+AES,The AES Corporation,Andres Gluski,"$14,379,190",Utilities
+ATO,Atmos Energy Corporation,John Akers,"$4,839,562",Utilities
+AWK,"American Water Works Company, Inc.",Walter Lynch,"$7,398,128",Utilities
+CEG,Constellation Energy Corp.,Joseph Dominguez,"$3,352,277",Utilities
+CMS,CMS Energy Corporation,Garrick Rochow,"$6,871,068",Utilities
+CNP,"CenterPoint Energy, Inc.",David Lesar,"$37,809,810",Utilities
+D,"Dominion Energy, Inc.",Robert Blue,"$8,161,083",Utilities
+DTE,DTE Energy Company,Gerardo Norcia,"$11,128,277",Utilities
+DUK,Duke Energy Corporation,Lynn Good,"$16,451,236",Utilities
+ED,"Consolidated Edison, Inc.",Timothy Cawley,"$10,342,198",Utilities
+EIX,Edison International,Pedro Pizarro,"$14,364,340",Utilities
+ES,Eversource Energy,Joseph Nolan Jr.,"$6,467,078",Utilities
+ETR,Entergy Corporation,Leo Denault,"$17,045,744",Utilities
+EVRG,"Evergy, Inc.",David Campbell,"$11,138,082",Utilities
+EXC,Exelon Corporation,Christopher Crane,"$15,757,378",Utilities
+FE,FirstEnergy Corp.,Steven Strah,"$10,714,062",Utilities
+LNT,Alliant Energy Corporation,John Larsen,"$10,449,260",Utilities
+NEE,"NextEra Energy, Inc.",James Robo,"$25,335,936",Utilities
+NI,NiSource Inc.,Joseph Hamrock,"$9,535,782",Utilities
+NRG,"NRG Energy, Inc.",Mauricio Gutierrez,"$10,854,224",Utilities
+PCG,PG&E Corporation,Patricia Poppe,"$51,198,471",Utilities
+PEG,Public Service Enterprise Group Incorporated,Ralph Izzo,"$14,208,674",Utilities
+PNW,Pinnacle West Capital Corporation,Jeffrey Guldner,"$8,100,157",Utilities
+PPL,PPL Corporation,Vincent Sorgi,"$11,356,481",Utilities
+SO,The Southern Company,Thomas Fanning,"$21,243,559",Utilities
+SRE,Sempra Energy,Jeffrey Martin,"$24,675,982",Utilities
+WEC,"WEC Energy Group, Inc.",J. Fletcher,"$18,481,871",Utilities
+XEL,Xcel Energy Inc.,Robert Frenzel,"$8,350,364",Utilities
