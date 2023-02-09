@@ -7,4 +7,4 @@ With the rising cost of living in the United States and a struggling financial a
 
 However, the determination of compensation package is often based by industry, company size, location, job title, and experience. This dataset gives an insight into the current state of median wages for the average worker at a given company and the current executive compensation. 
 
-By shedding a light into this disparity, we can start to explore and visualize the relationship between CEO and worker pay and evaluate our definition of "fair wages" for our role within the industry. Analyzing this data is the first step toward having a basis on promoting pay equality.
+By shedding a light into this disparity, we can start to explore and visualize the relationship between CEO and worker pay and evaluate our definition of "fair wages" for our role within a industry. Analyzing this data is the first step toward having a basis on promoting pay equality.
