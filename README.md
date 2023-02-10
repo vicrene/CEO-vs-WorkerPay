@@ -9,8 +9,19 @@ However, the determination of compensation package is often based by industry, c
 
 By shedding a light into this disparity, we can start to explore and visualize the relationship between CEO and worker pay and evaluate our definition of "fair wages" for our role within a industry. Analyzing this data is the first step toward having a basis on promoting pay equality.
 
+### Q's
+1. How much do CEO salaries vary across industries?
+2. Is there an industry with higher CEO salaries than others? Median worker pay?
+3. Can we find a cluster of companies or industries that practice similar pay practices based on service provided and median worker pay?
+
 ## About this Data Set & Initial Cleaning
 
-The initial dataset that I am using (ceo_data_pay_merged_r3000) provides information on the top 3000 companies in the United States, including the Russell 3000 and S&P 500 indices. The data includes 2175 unique values with company name, CEO name and salary, industry, company ticker, median worker pay and pay ratio information. Before full analysis, we'll need to import the appropriate python libraries to enhance our ability to manipulate and/or visualize this set. For this data set, I'll rename the columns and check whether the numeric columns are in floats to ensure easy maneuverability. 
+The initial dataset that I am using (ceo_data_pay_merged_r3000) provides information on the top 3000 companies in the United States, including the Russell 3000 and S&P 500 indices. The data includes 2175 unique values with company name, CEO name and salary, industry, company ticker, median worker pay and pay ratio information. Since this data table is pretty small, I didn't think using R or Python was necessary to perform the initial cleaning, so using Excel, I did a sweep of the data and removed some characters such as "%20" that were in the industry column, $ in median worker pay and salary. The pay_ratio column had contradicting data type formats, so to make the table a lot cleaner, I added a column to the end and remade the pay_ratio column using the provided ceo salary and median worker pay. This addition allowed me to see some worker pay values that were missing for Columbus Mckinnon Corp., CEVA, and Safehold, and I proceeded to eliminate those rows.
 
-Since this data table is pretty small, I didn't think using R or Python was necessary to perform the initial cleaning, so using Excel, I did a sweep of the data and removed some characters such as "%20" that were in the industry column, $ in median worker pay and salary. The pay_ratio column had contradicting data type formats, so to make the table a lot cleaner, I added a column to the end and remade the pay_ratio column using the provided ceo salary and median worker pay. This addition allowed me to see some worker pay values that were missing for Columbus Mckinnon Corp., CEVA, and Safehold, and I proceeded to eliminate those rows.
+Before full analysis, we'll need to import the appropriate python libraries to enhance our ability to manipulate and/or visualize this set. For this data set, I'll rename the columns and check whether the numeric columns are in floats to ensure easy maneuverability. 
+
+## Data
+
+## Future Work
+
+While this was good practice to examine the inital findings of CEO vs Worker pay, some good additional data to include would be state originiation for each company and figure out if there is any correlation on ceo/worker ratio compared to their operating state and cost of living for the majority of workers.  
