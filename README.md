@@ -27,16 +27,17 @@ For the exploratory data part of this mini project, I decided to load up Jupyter
 <details><summary>Code</summary>
 <p>
 
-
 ```
 import matplotlib.pyplot as plt
 import seaborn as sb
 import numpy as np
 import pandas as pd
 from mpl_toolkits.axes_grid1.inset_locator import inset_axes
+import warnings
+warnings.simplefilter('ignore')
 
   
-  salary = pd.read_csv('ceo_data_pay_merged_r3000.csv')
+salary = pd.read_csv('ceo_data_pay_merged_r3000.csv')
 salary = salary.rename(columns={
     'ticker':'Ticker',
     'company_name': 'Company Name',
@@ -59,6 +60,12 @@ print(salary.corr())
 dataplot = sb.heatmap(salary.corr(), cmap="YlGnBu", annot = True)
 ##quick heatmap does not give any useful information due to it being a small data set with mostly non quantifiable data   
   
+#setting color palette for seaborn graphs
+
+sb.set_palette('rocket')
+sb.set_style('darkgrid')
+sb.set_context('notebook')
+
 #setting color palette for seaborn graphs
 
 sb.set_palette('rocket')
@@ -105,15 +112,29 @@ ax4.set_ylim(0,350000)
 ax4.set_title('CEO Salary vs Median Salary')
 
 
-plt.show()  
+plt.show()
+
   
  ```
 ![image](https://user-images.githubusercontent.com/72219431/218628703-24a7e275-1b43-4c68-9654-2b85c617a513.png)
-
+ 
 ```
+#adding one last graph for data exploration
 
+industry_median = salary.groupby('Industry')['Median Salary'].median().sort_values().index
+
+fig, (ax1) = plt.subplots(1, figsize=(8,8))
+sb.stripplot(y='Industry', x='Median Salary', data=salary, palette='rocket', ax=ax1, order=industry_median)
+plt.ticklabel_format(style='plain', axis='x')
+ax1.set_title('Median Salary by Industry')
+
+plt.show()
   
 ```
+![image](https://user-images.githubusercontent.com/72219431/218812294-55b0d15c-b169-4b4e-9de8-2240bd777b98.png)
+
+  
+  
 </p>
 </details>
 
