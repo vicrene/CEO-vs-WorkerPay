@@ -1,7 +1,7 @@
 # CEO vs Worker Pay 
 Mini-Project on the details of 3000+ top CEO salaries from Russell 3000 and S&amp;P 500 companies
 
-TDLR: Here's a link to a quick [Powerpoint explanation](https://github.com/vicrene/CEO-vs-WorkerPay/blob/master/CEO%20vs%20Worker%20Pay%20in%20Top%203000%20Companies.pdf)
+TDLR: Here's a link to a quick [PowerPoint](https://github.com/vicrene/CEO-vs-WorkerPay/blob/master/CEO%20vs%20Worker%20Pay%20in%20Top%203000%20Companies.pdf) I made.
 
 ![image](https://static01.nyt.com/images/2019/08/19/business/19ROUNDTABLE-COMBO/19ROUNDTABLE-COMBO-superJumbo.jpg?quality=75&auto=webp)[^1]
 
