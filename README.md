@@ -7,7 +7,11 @@ With the rising cost of living in the United States and a struggling financial a
 
 However, the determination of compensation packages is often based by industry, company size, location, job title, and experience. This dataset gives an insight into the current state of median wages for the average worker at a given company and the current executive compensation. 
 
-By shedding a light into this disparity, we can start to explore and visualize the relationship between CEO and worker pay and evaluate our definition of "fair wages" for our role within a industry. Analyzing this data is the first step toward having a basis on promoting pay equality.
+By shedding a light into this disparity, we can start to explore and visualize the relationship between CEO and worker pay and evaluate our definition of "fair wages" for our role within a industry. Analyzing this data is the first step toward having a basis on promoting pay equality. 
+
+But ultimately, **why** does this matter and **why** did I pick this data?
+
+Well, I believe that this small analysis can not only allow us to start asking or even *thinking* about the gap between executives and the average worker, but further work with data like this can be a great resource for organizations like those at [Inequality.org](https://inequality.org/action/corporate-pay-equity/). A quick [Google Search](https://www.google.com/search?q=ceo+vs+worker+pay&rlz=1C1VDKB_enUS981US981&sxsrf=AJOqlzVs5XLW8wrnwiQlFTRiAKrqLMsddg%3A1676401120509&ei=4NnrY6jHHue5qtsPgsWSqAc&oq=CEO+vs+w&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAxgAMgUIABCRAjIKCAAQgAQQFBCHAjIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgkIABAWEB4Q8QQyCQgAEBYQHhDxBDIGCAAQFhAeOgQIIxAnOgsIABCABBCxAxCDATogCC4QgAQQsQMQgwEQxwEQ0QMQqAMQ0gMQiwMQ0gMQqAM6CAgAEIAEELEDOhQILhCABBCbAxCoAxCLAxCoAxCbAzoUCC4QgAQQsQMQxwEQ0QMQqAMQ0gM6HwguELEDEIMBEMcBENEDEKgDENIDEEMQiwMQ0gMQqAM6BAgAEEM6HwguELEDEIMBENIDEKgDEJsDEEMQiwMQ0gMQqAMQmwM6HQguEIAEELEDEJgDEJoDEKgDEIsDEJgDEJoDEKgDOgcIABCxAxBDOgoIABCxAxCDARBDOgwIABCxAxBDEEYQ-wFKBAhBGABKBAhGGABQAFjeD2DtFmgDcAF4AIABgwGIAdwIkgEDNS42mAEAoAEBuAECwAEB&sclient=gws-wiz-serp) shows that there *is* interest both socially and politically on addressing this, and studies like these could be a small part of the puzzle. 
 
 ### Q's
 1. How much do CEO salaries vary across industries?
