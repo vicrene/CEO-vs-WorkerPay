@@ -26,7 +26,7 @@ Before full analysis, we'll need to import the appropriate python libraries to e
 
 ## Data Exploration and Visualization
 
-For the exploratory data part of this mini project, I decided to load up Jupyter Notebooks in *Visual Studio Code* and use Python for the entire section. Below you can find the code, but for the Jupyter Notebook file, feel free to go through my repository. 
+For the exploratory data part of this mini project, I decided to load up Jupyter Notebooks in *Visual Studio Code* and use Python for the entire section. Below you can find the code, but for the Jupyter Notebook file, feel free to go through my [repository](https://github.com/vicrene/CEO-vs-WorkerPay/blob/master/CEOvsPay.ipynb). 
 
 To start, I imported several packages that are useful for easy visuals of the data. I decided to rename the columns and correct each column's data type. I also decided to make an additional column by dividing CEO salary by 1000 to easily manage the tick labels that were inevitably going to be part of the visuals. Once everything was good to go, subplots were made to display an initial 4 plots all showing different relationships with the last plot (#5) as part of a second block of code. 
 
