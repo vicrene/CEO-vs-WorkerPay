@@ -26,9 +26,9 @@ Well, I believe that this small analysis can not only allow us to start asking o
 
 ## About this Data Set & Initial Cleaning
 
-The initial dataset that I am using (ceo_data_pay_merged_r3000) is from The American Federation of Labor and Congress of Industrial Organizations (AFL-CIO), but provided by [Widya Salim on Kaggle](https://www.kaggle.com/datasets/salimwid/latest-top-3000-companies-ceo-salary-202223?datasetId=2862175&select=ceo_data_pay_merged_r3000.csv) provides information on the top 3000 companies in the United States, including the Russell 3000 and S&P 500 indices. The data includes 2175 unique values with company name, CEO name and salary, industry, company ticker, median worker pay and pay ratio information. Since this data table is pretty small, I didn't think using R or Python was necessary to perform the initial cleaning, so using Excel, I did a sweep of the data and removed some characters such as "%20" that were in the industry column, $ in median worker pay and salary. The pay_ratio column had contradicting data type formats, so to clean up the table I added a column to the end and remade the pay_ratio column using the provided ceo salary and median worker pay. This addition allowed me to see some worker pay values that were missing for Columbus Mckinnon Corp., CEVA, and Safehold, and I proceeded to eliminate those rows.
+The initial dataset that I am using (ceo_data_pay_merged_r3000) is from The American Federation of Labor and Congress of Industrial Organizations (AFL-CIO), but provided by [Widya Salim on Kaggle](https://www.kaggle.com/datasets/salimwid/latest-top-3000-companies-ceo-salary-202223?datasetId=2862175&select=ceo_data_pay_merged_r3000.csv) provides information on the top 3000 companies in the United States, including the Russell 3000 and S&P 500 indices. The data includes 2175 unique values with company name, CEO name and salary, industry, company ticker, median worker pay, and pay ratio information. Since this data table is pretty small, I didn't think using R or Python was necessary to perform the initial cleaning. Using Excel, I did a sweep of the data and removed some characters such as "%20" that were in the industry column and "$" in median worker/CEO salary. The pay_ratio column had contradicting data type formats, so to clean up the table I added a column to the end and remade the pay_ratio column using the provided ceo salary and median worker pay. This addition allowed me to see some worker pay values that were missing for Columbus Mckinnon Corp., CEVA, and Safehold, and I proceeded to eliminate those rows.
 
-Before full analysis, we'll need to import the appropriate python libraries to enhance our ability to manipulate and/or visualize this set. For this data set, I'll rename the columns and check whether the numeric columns are in floats to ensure easy maneuverability. 
+Before full analysis, we'll need to import the appropriate python libraries to enhance our ability to manipulate and/or visualize this set. For this data set, I'll rename each column and check whether the numeric columns are in floats to ensure easy maneuverability. 
 
 ## Data Exploration and Visualization
 
@@ -36,7 +36,7 @@ For the exploratory data part of this mini project, I decided to load up Jupyter
 
 To start, I imported several packages that are useful for easy visuals of the data. I decided to rename the columns and correct each column's data type. I also decided to make an additional column by dividing CEO salary by 1000 to easily manage the tick labels that were inevitably going to be part of the visuals. Once everything was good to go, subplots were made to display an initial 4 plots all showing different relationships with the last plot (#5) as part of a second block of code. 
 
-<details><summary>Code</summary>
+<details><summary>Python Code</summary>
 <p>
 
 ```
@@ -152,21 +152,21 @@ plt.show()
 
 ## Findings
 
-Once the visuals made, I was pretty quick to go in and make immediate assumptions, but I wanted to go back to my main questions below that were introduced earlier first.
+Once the visuals were made, I was pretty quick to go in and make immediate assumptions, but I wanted to go back to my main questions below that were introduced earlier.
 
 1. How much do CEO salaries vary across industries?
 2. Is there an industry with higher CEO salaries than others? Median worker pay?
 3. Can we find a cluster of companies or industries that practice similar pay practices based on service provided and median worker pay?
 
-For starters, Jeff Green, the CEO of TradeDesk, appears to be the highest paid CEO, which was clear from the excel table, but when visualizing the data points, I had to create an inset map to ensure that the other points were not overshadowed by the axis stretch. This point aside, it seems that the **highest paid CEOs** are in the *'Consumer Discretionary', IT, and Financials* industries. Interestingly enough, while the number of companies in these industries are also high, CEOS in the *Industrials* industry are not nearly paid as much as the others. 
+For starters, Jeff Green (CEO of TradeDesk) appears to be the highest paid CEO, which was clear from the excel table. But when visualizing the data points, I had to create an inset map to ensure that the other points were not overshadowed by the axis stretch. This point aside, it seems that the **highest paid CEOs** are in the *'Consumer Discretionary', IT, and Financials* industries. Interestingly enough, while the number of companies in these industries are also high, CEOs in the *Industrials* industry are not nearly paid as much as the others. 
 
-In addition, the highest pay disparities (as illustrated by Pay Ratios) are in the Consumer Discretionary and Consumer Staples industries. This might be due to the fact that there are many workers in these industries that are directly impacted by consumers and these industries themselves are *led* by consumer spending (e.g household goods, food & beverages, entertainment and leisure activities, etc). An average worker in these industries are those in a storefront with many locations nationwide while the corporate side of these companies are typically of smaller number. There seems to be no correlation between median salary and CEO Salary as illustrated by the 4th plot. 
+In addition, the highest pay disparities (as illustrated by Pay Ratios) are in the Consumer Discretionary and Consumer Staples industries. This might be due to the fact that there are many workers in these industries that are directly impacted by consumers and these industries themselves are *led* by consumer spending (e.g household goods, food & beverages, entertainment and leisure activities, etc). An average worker in these industries are those in a storefront with many locations nationwide, while the corporate side of these companies are typically of smaller number. There seems to be no correlation between median salary and CEO Salary as illustrated by the 4th plot. 
 
-While CEO Salaries are prevalent in three individual industries, this is not reflected by Median Worker Pay in the same industries. Workers in Health Care, Real Estate, and IT tend to be the highest paid. This is likely because of the caliber of service that is provided along with fewer people working in these professions. 
+While CEO Salaries are prevalent in three individual industries, this is not reflected by Median Worker Pay in the same industries. Employees in Health Care, Real Estate, and IT tend to be the highest paid. This is likely because of the caliber of service that is provided along with fewer people working in these professions. 
 
 
 ## Future Work
 
-While this was good practice to examine the inital findings of CEO vs Worker pay, some good additional data to include would be state originiation for each company and figure out if there is any correlation on ceo/worker ratio compared to their operating state and cost of living for the majority of workers.  Something else that caught my eye was the energy and materials sector. As someone with a background in Geoscience, I expected for energy CEOs or at least Worker salaries to be higher than most (placing somewhere in the fourth or fifth highest, but there doesn't seem to be any eye-catching results from any of these visuals. 
+While this was good practice to examine the inital findings of CEO vs Worker pay, some good additional data to include would be state originiation for each company and determine if there is any correlation on CEO/Worker ratio compared to their operating state and cost of living for the majority of workers. Something else that caught my eye was the Energy and Materials sector. As someone with a background in Geoscience, I expected for Energy CEOs or at least worker salaries to be higher than most (placing somewhere in the fourth or fifth highest, but there doesn't seem to be any prevalent outliers from any of these visuals. 
 
 As previously stated, this was a mini-project on not only an exhibition of skill, but a quick evaluation of a small dataset. The value that additional insight into these metrics could bring is priceless for those on the frontline of reform.
