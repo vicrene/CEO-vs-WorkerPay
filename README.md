@@ -22,7 +22,9 @@ Before full analysis, we'll need to import the appropriate python libraries to e
 
 ## Data Exploration and Visualization
 
-For the exploratory data part of this mini project, I decided to load up Jupyter Notebooks in *Visual Studio Code* and use Python for the entire section. Below you can find the code, but for the Jupyter Notebook file, feel free to go through my repository.
+For the exploratory data part of this mini project, I decided to load up Jupyter Notebooks in *Visual Studio Code* and use Python for the entire section. Below you can find the code, but for the Jupyter Notebook file, feel free to go through my repository. 
+
+To start, I imported several packages that are useful for easy visuals of the data. I decided to rename the columns and correct each column's data type. I also decided to make an additional column by dividing CEO salary by 1000 to easily manage the tick labels that were inevitably going to be part of the visuals. Once everything was good to go, subplots were made to display an initial 4 plots all showing different relationships with the last plot (#5) as part of a second block of code. 
 
 <details><summary>Code</summary>
 <p>
@@ -138,8 +140,21 @@ plt.show()
 </p>
 </details>
 
-## Current Conclusions
+## Findings
+
+Once the visuals made, I was pretty quick to go in a make immediate assumptions, but I want to go back to my main questions below that were introduced earlier.
+
+1. How much do CEO salaries vary across industries?
+2. Is there an industry with higher CEO salaries than others? Median worker pay?
+3. Can we find a cluster of companies or industries that practice similar pay practices based on service provided and median worker pay?
+
+For starters, Jeff Green, the CEO of TradeDesk, appears to be the highest paid CEO, which was clear from the excel table, but when visualizing the data points, I had to create an inset map to ensure that the other points were not overshadowed by the axis stretch. This point aside, it seems that the **highest paid CEOs** are in the *'Consumer Discretionary', IT, and Financials* industries. Interestingly enough, while the number of companies in these industries are also high, CEOS in the *Industrials* industry are not nearly paid as much as the others. 
+
+In addition, the highest pay disparities (as illustrated by Pay Ratios) are in the Consumer Discretionary and Consumer Staples industries. This might be due to the fact that there are many workers in these industries that are directly impacted by consumers and these industries themselves are *led* by consumer spending (e.g household goods, food & beverages, entertainment and leisure activities, etc). An average worker in these industries are those in a storefront with many locations nationwide while the corporate side of these companies are typically of smaller number. There seems to be no correlation between median salary and CEO Salary as illustrated by the 4th plot. 
+
+While CEO Salaries are prevalent in three individual industries, this is not reflected by Median Worker Pay in the same industries. Workers in Health Care, Real Estate, and IT tend to be the highest paid. This is likely because of the caliber of service that is provided along with fewer people working in these professions. 
+
 
 ## Future Work
 
-While this was good practice to examine the inital findings of CEO vs Worker pay, some good additional data to include would be state originiation for each company and figure out if there is any correlation on ceo/worker ratio compared to their operating state and cost of living for the majority of workers.  
+While this was good practice to examine the inital findings of CEO vs Worker pay, some good additional data to include would be state originiation for each company and figure out if there is any correlation on ceo/worker ratio compared to their operating state and cost of living for the majority of workers.  Something else that caught my eye was the energy and materials sector. As someone with a background in Geoscience, I expected for energy CEOs or at least Worker salaries to be higher than most (placing somewhere in the fourth or fifth highest, but there doesn't seem to be any eye-catching results from any of these visuals. 
