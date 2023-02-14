@@ -162,3 +162,5 @@ While CEO Salaries are prevalent in three individual industries, this is not ref
 ## Future Work
 
 While this was good practice to examine the inital findings of CEO vs Worker pay, some good additional data to include would be state originiation for each company and figure out if there is any correlation on ceo/worker ratio compared to their operating state and cost of living for the majority of workers.  Something else that caught my eye was the energy and materials sector. As someone with a background in Geoscience, I expected for energy CEOs or at least Worker salaries to be higher than most (placing somewhere in the fourth or fifth highest, but there doesn't seem to be any eye-catching results from any of these visuals. 
+
+As previously stated, this was a mini-project on not only an exhibition of skill, but a quick evaluation of a small dataset. The value that additional insight into these metrics could bring is priceless for those on the frontline of reform.
