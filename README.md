@@ -142,7 +142,7 @@ plt.show()
 
 ## Findings
 
-Once the visuals made, I was pretty quick to go in a make immediate assumptions, but I want to go back to my main questions below that were introduced earlier.
+Once the visuals made, I was pretty quick to go in and make immediate assumptions, but I wanted to go back to my main questions below that were introduced earlier first.
 
 1. How much do CEO salaries vary across industries?
 2. Is there an industry with higher CEO salaries than others? Median worker pay?
