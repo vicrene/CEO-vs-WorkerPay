@@ -1,5 +1,7 @@
-# CEO-vs-WorkerPay 
+# CEO vs Worker Pay 
 Mini-Project on the details of 3000+ top CEO salaries from Russell 3000 and S&amp;P 500 companies
+
+TDLR: Here's a link to a quick [Powerpoint explanation]()
 
 ![image](https://static01.nyt.com/images/2019/08/19/business/19ROUNDTABLE-COMBO/19ROUNDTABLE-COMBO-superJumbo.jpg?quality=75&auto=webp)[^1]
 
